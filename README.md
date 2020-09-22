@@ -24,3 +24,12 @@ The participants take part in this game due to the Twitch chat, everyone who lea
 ![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/5.jpg)  
 
 ![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/6.jpg)  
+
+## Start the simulation
+
+Right after you will be ready just press button **Start in 1 minute** to start battle simulation. Game will start countdown after 60 sec. During this time users will still able to join.
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/8.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/7.jpg)  
+
