@@ -14,3 +14,13 @@ Click on **Login with Twitch** button and press **Authorize** in just opened bro
 ![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/2.jpg)  
 
 ![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/3.jpg)  
+
+## Add users to the game
+
+The participants take part in this game due to the Twitch chat, everyone who leaves **!play** message in the your Twitch channel chat while game is waiting for participants will be added to the battle simulation under his username into the random team.
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/4.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/5.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/6.jpg)  
