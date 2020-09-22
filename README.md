@@ -7,3 +7,10 @@ My first more or less good enough project on UE4. It is not a simple game, it is
 
 ## Login to Twitch
 
+Click on **Login with Twitch** button and press **Authorize** in just opened browser window. After that, you will be redirected to Twitch main page and in the address there will be a link with your access token which the application is waiting. Just copy it and application will grab it from clipboard.
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/1.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/2.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/3.jpg)  
