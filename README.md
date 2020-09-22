@@ -29,7 +29,15 @@ The participants take part in this game due to the Twitch chat, everyone who lea
 
 Right after you will be ready just press button **Start in 1 minute** to start battle simulation. Game will start countdown after 60 sec. During this time users will still able to join.
 
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/7.jpg)  
+
 ![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/8.jpg)  
 
-![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/7.jpg)  
+## Battle simulation
+
+Team of ronins attacks the castle and samurais defend it. The game is running until one team will be fully destroyed. The winner is the surviover with the largest amount of kills.
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/9.jpg)  
+
+![alt text](https://github.com/ihorkaralash/UE4-Deathmatch-Twitch/blob/master/images/10.jpg) 
 
